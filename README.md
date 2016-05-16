@@ -1,6 +1,6 @@
 # Shift Management
 
-This project provide the time managament tool used to manage the employees and their shifts.
+This project provide the time management tool used to manage the employees and their shifts.
 
   * Following the features in the ShiftManagement are:
     * Managing Employee (Create, View, Edit, Active-Deactive)
